@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
     <typeInfo handle="=practice-activity/src&lt;com.practice.demo{FortuneService.java[FortuneService" modifiers="513" timestamp="1672578792160"/>
-    <typeInfo handle="=spring-demo-annotations/src&lt;com.luv2code.springdemo{Coach.java[Coach" modifiers="513" timestamp="1672585982359"/>
     <typeInfo handle="=practice-activity-ioc-with-annotations/src&lt;com.practice.demo{Coach.java[Coach" modifiers="513" timestamp="1672587079121"/>
+    <typeInfo handle="=practice-activity-dependency-injection-with-annotations/C:\/Program Files\/Java\/jdk-19\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/19\/docs\/api\/=/=/module=/true=/&lt;java.util(Formatter$FormatString.class[FormatString" modifiers="1546" timestamp="1672323560640"/>
+    <typeInfo handle="=practice-activity-dependency-injection-with-annotations/src&lt;com.practice.demo{FortuneService.java[FortuneService" modifiers="513" timestamp="1672742652224"/>
+    <typeInfo handle="=spring-demo-annotations/src&lt;com.luv2code.springdemo{FortuneService.java[FortuneService" modifiers="513" timestamp="1672736559709"/>
+    <typeInfo handle="=spring-demo-annotations/src&lt;com.luv2code.springdemo{Coach.java[Coach" modifiers="513" timestamp="1672736726116"/>
+    <typeInfo handle="=practice-activity-ioc-and-di-java-code/src&lt;com.practice.demo{Coach.java[Coach" modifiers="513" timestamp="1672751945132"/>
+    <typeInfo handle="=practice-activity-ioc-and-di-java-code/src&lt;com.practice.demo{FortuneService.java[FortuneService" modifiers="513" timestamp="1672752099555"/>
 </typeInfoHistroy>
