@@ -16,4 +16,8 @@
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.luv2code.aopdemo.DemoConfig"/>
+    <fullyQualifiedTypeName name="com.luv2code.aopdemo.dao.AccountDAO"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Before"/>
+    <fullyQualifiedTypeName name="com.luv2code.aopdemo.dao.MembershipDAO"/>
 </qualifiedTypeNameHistroy>

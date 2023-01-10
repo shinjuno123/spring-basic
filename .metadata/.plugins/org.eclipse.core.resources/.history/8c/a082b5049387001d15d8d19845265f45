@@ -1,7 +1,0 @@
-package com.luv2code.springdemo;
-
-public class SoccerCoach {
-	public String getDailyWorkout() {
-		return "Kick a ball for 30 times to goal post";
-	}
-}
